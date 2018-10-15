@@ -6,7 +6,7 @@ import java.util.*;
 class GameMethods
 {
     private static char spaces[] = {'_', '_', '_', '_', '_', '_', '_', '_', '_'};
-    private static int winPossibilities[][] ={
+    private static int winPossibilities[][] = {
             {0, 1, 2},
             {3, 4, 5},
             {6, 7, 8},
