@@ -55,7 +55,7 @@ public class Main {
         System.out.println(setCons.getColor());
 
         //Inher2 extends Inher
-        //
+        //inheritance executes the constructor of both classes tied in inheritance
         Inher2 borrow = new Inher2();
         System.out.println(borrow);
     }
